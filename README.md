@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CathGrvt
-- 👀 I’m interested in Systems Biology, Data Science, Programming and anything related to science-fiction and computers!
-- 🌱 I’m currently learning how to develope my python skills and how to build a video game on Unreal Engine :)
+- 👀 I’m interested in Mathematical Modelling, Data Science, Programming and anything related to science-fiction and computers!
+- 🌱 I’m currently learning how to develope my python skills in a Clinical Data Science group and how to build a video game on Unreal Engine :)
 - 💞️ I’m looking to collaborate on any research project that could lead me to gain as learning outcomes: 
 -       How to recognize the strengths and weaknesses of systems qualitative and quantitative modelling techniques
         Learn how to develop a solid pipeline by looking into the different steps
